@@ -22,5 +22,3 @@ To install the required libraries for this project, follow these steps:
     pip install -r requirements.txt
     ```
 
-
-# Explanation
